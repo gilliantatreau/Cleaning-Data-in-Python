@@ -1,5 +1,4 @@
 # Cleaning Data in Python
-## Predicting Employee Attrition Across Factors Affecting Workplace Behavior and Satisfaction
 Cleaning book data from three data sources (API, .csv file, and web page).
 
 Demonstrates technical skills for cleaning data from various sources. Data is procured from a flat file (.csv), web scraping (web page), and an API pull. 
