@@ -6,7 +6,10 @@ Each data source is cleaned individually. Cleaned data sets are then loaded into
 The combined data set is then used to produce visualizations. 
 
 ## How to Run Code Locally
-- Run Python Code file using Jupyter Notebook server (such as Anaconda) for Python code
+- Clone repo
+- Go into repository on local device
+- In the config.py file, add your API secret key to the my_key variable instead of YOUR SECRET KEY and save changes
+- Run Python Code file using Jupyter Notebook server (such as Anaconda) or other preferred Python IDE
 
 ## Libraries Used
 To clean .csv file:
