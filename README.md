@@ -1,5 +1,7 @@
 # Cleaning Data in Python
-Cleaning book data from three data sources (API, .csv file, and web page).
+Cleaning book data from three data sources (API, .csv file, and web page). 
+
+API pull for NYT bestseller lists from the New York Times [Books API](https://developer.nytimes.com/docs/books-product/1/overview).
 
 Demonstrates technical skills for cleaning data from various sources. Data is procured from a flat file (.csv), web scraping (web page), and an API pull. 
 Each data source is cleaned individually. Cleaned data sets are then loaded into SQL tables. SQL tables are then combined into a single data table. 
