@@ -27,6 +27,7 @@ To clean data pulled from API:
 - requests
 - urllib3
 - json
+- import_ipynb (if the config file is saved as a .ipynb file instead of a .py file)
 
 To build data base:
 - sqlite3
